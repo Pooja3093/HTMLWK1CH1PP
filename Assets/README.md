@@ -42,10 +42,14 @@ THEN I find a concise, descriptive title
   
   
 **Web page after modifications:**
+(./Assets/Online Marketing with Horiseon.jpg)
 
 
 
 
 
 **GitHub Link:**
-(https://pooja3093.github.io/PPWK1Ch1/)
+(https://github.com/Pooja3093/HTMLWK1CH1PP.git)
+
+**Deployed application URL:**
+(https://pooja3093.github.io/HTMLWK1CH1PP/)
