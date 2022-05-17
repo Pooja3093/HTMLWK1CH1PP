@@ -42,7 +42,7 @@ https://github.com/Pooja3093/HTMLWK1CH1PP/blob/main/Assets/01-html-css-git-homew
   
   
 **Web page after modifications:**
-https://github.com/Pooja3093/HTMLWK1CH1PP/blob/main/Assets/Online%20Marketing%20with%20Horiseon.jpg
+![preview](https://github.com/Pooja3093/HTMLWK1CH1PP/blob/main/Assets/Online%20Marketing%20with%20Horiseon.jpg)
 
 
 
